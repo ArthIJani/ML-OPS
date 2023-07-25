@@ -1,6 +1,8 @@
 
 <h3>The aim of the practial is to get the hands-on experience of reproducing the machine learning operations at each stage. Student needs to apply the following steps in the practical.<h3>
 <br><br>
+   .. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/ArthIJani/ML-OPS/tree/main/Practical-02/HEAD
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ArthIJani/ML-OPS/tree/main/Practical-02/HEAD)
 <br><br>
    
